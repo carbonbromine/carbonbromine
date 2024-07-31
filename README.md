@@ -1,4 +1,4 @@
-### CarbonBromine
+# CarbonBromine
 ## 兴趣爱好：
 游戏开发
 ## 职业：
